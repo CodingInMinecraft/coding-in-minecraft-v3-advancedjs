@@ -48,11 +48,11 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.11",
+        "target": "1.6.26",
         "targetId": "minecraft"
     },
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
