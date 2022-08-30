@@ -1,6 +1,6 @@
 {
     "name": "coding-in-minecraft-v3-advancedjs",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "description": "",
     "dependencies": {
         "core": "*",
